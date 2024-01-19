@@ -1,0 +1,36 @@
+body {
+    background-color: green;
+  }
+  
+  .card-container {
+    position: relative;
+    display: flex;
+    justify-content: start;
+    margin: 20px;
+  }
+  
+  .card {
+    width: 100px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    background-color: white;
+    border: 1px solid #ccc;
+  padding: 2px;
+    margin-right: 10px; /* Adjust the margin between cards */
+    box-sizing: border-box;
+  }
+  
+  .card p {
+    text-align: center;
+    font-size: 23px;
+  }
+  
+  .pinta1 {
+    margin-top: 0px;
+    margin-right: 70px;
+  }
+  
+  .pinta2 {
+    position: absolute;
+    margin-left: 75px;
+    margin-bottom: 5
+  }
