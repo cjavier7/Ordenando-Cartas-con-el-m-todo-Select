@@ -1,0 +1,40 @@
+body {
+  background-color: green;
+}
+
+.card {
+  margin: 1px;
+  width: 100px;
+  height: 150px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.iconLeft {
+  text-align: left;
+  font-size: 30px;
+  margin-left: 5px;
+}
+
+.number {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+.iconRight {
+  font-size: 30px;
+  margin-right: 10px;
+  margin-top: 30px;
+  text-align: left;
+  transform: rotate(180deg);
+ 
+}
+
+#parrilla {
+  display: flex;
+}
+
+#ordenado {
+
+}
